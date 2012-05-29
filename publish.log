@@ -1,0 +1,18 @@
+Copying from /c/Users/Luciano Lucena/Documents/PROJETOS/UNIVESP/GitHub/AI-0071 to cepa@arquivos.atp.usp.br:/work/PUBLICACAO/atividades-interativas/AI-0071
+building file list ... done
+created directory /work/PUBLICACAO/atividades-interativas/AI-0071
+./
+AI-0071_SCO.zip
+imsmanifest.xml
+index.html
+js/
+js/ai.js
+js/jquery-1.4.2.min.js
+js/scorm_wrapper.min.js
+js/swfobject.js
+swf/
+swf/AI-0071.swf
+swf/AI_Loader.swf
+
+sent 343157 bytes  received 192 bytes  686698.00 bytes/sec
+total size is 342463  speedup is 1.00
